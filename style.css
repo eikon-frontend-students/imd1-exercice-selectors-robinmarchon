@@ -27,14 +27,23 @@ aside .urgent ~ li {
   font-style: italic;
 }
 
-article p:first-of-type{
-  background: yellow;`).
+article p:first-of-type {
+  background: yellow;
 }
 
-article p:nth-child(3){
-  border: 2px solid green;`).;
+article p:nth-child(3) {
+  border: 2px solid green;
 }
 
-aside li:last-child{
+aside li:last-child {
   color: red;
+}
+
+strong {
+  border-style: dashed;
+}
+
+li:hover {
+  background-color: #dbdbdb;
+  cursor: pointer;
 }
