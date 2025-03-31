@@ -1,0 +1,15 @@
+p {
+  margin: 1em;
+  color: #333;
+}
+#presentation {
+  background-color: #f2f2f2;
+}
+
+.special {
+  font-style: italic;
+  color: #0099cc;
+}
+#presentation em {
+  font-weight: bold;
+}
