@@ -18,3 +18,7 @@ p {
   border: 1px solid red;
   margin: 1em;
 }
+
+p + .special {
+  text-transform: uppercase;
+}
