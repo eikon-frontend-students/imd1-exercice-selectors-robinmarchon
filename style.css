@@ -30,3 +30,7 @@ aside .urgent ~ li {
 article p:first-of-type{
   background: yellow;`).
 }
+
+article p:nth-child(3){
+  border: 2px solid green;`).;
+}
