@@ -22,3 +22,7 @@ p {
 p + .special {
   text-transform: uppercase;
 }
+
+aside .urgent ~ li {
+  font-style: italic;
+}
